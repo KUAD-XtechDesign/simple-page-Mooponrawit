@@ -88,6 +88,8 @@ header {
 #main_nav li a:hover,
 #main_nav li span{
     color:#e2970c;
+    font-size: 200%;
+    transition: 0.5s all;
     
 }
 
