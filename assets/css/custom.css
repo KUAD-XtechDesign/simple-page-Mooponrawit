@@ -9,7 +9,7 @@
 
 h1{
     font-size: 18px;
-    border-left: #e2970c solid 5px;
+    border-left: #4c00fd solid 5px;
     padding-left: 5px;
     margin-bottom:20px;
 }
@@ -87,7 +87,7 @@ header {
 
 #main_nav li a:hover,
 #main_nav li span{
-    color:#e2970c;
+    color:#4c00fd;
     font-size: 200%;
     transition: 0.5s all;
     
@@ -181,7 +181,7 @@ main{
 body.index_page h1{
     border: none;
     text-align: center;
-    font-size: 26px;
+    font-size: 35px;
 }
 
 /*======================================================
