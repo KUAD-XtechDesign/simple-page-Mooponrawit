@@ -2,7 +2,7 @@
 ＄（function(){
 
     $(".btn").on("click",()=>{
-        $(#"slide").slidetoggle();
+        $(#"slide").slideToggle();
     })
     
     $("#slide").slick({
