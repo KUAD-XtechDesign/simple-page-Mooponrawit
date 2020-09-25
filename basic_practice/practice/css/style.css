@@ -7,8 +7,13 @@ body{
     margin: 30px auto;
     background-color: white;
     text-align: center;
+    padding: ;
 }
 
 img{
     max-width: 100%;
+}
+
+#slide{
+    border: 10px solid ;
 }
