@@ -7,8 +7,8 @@ body{
     margin: 30px auto;
     background-color: white;
     text-align: center;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: auto;
-    margin-right: auto;
+}
+
+img{
+    max-width: 100%;
 }
