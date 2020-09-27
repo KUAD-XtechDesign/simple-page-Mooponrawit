@@ -6,18 +6,13 @@ $(function(){
   // $(".btn").on("click",()=>{
   //   $("#slide").slideToggle();
   // })
-
-
-    $(".btn").on("click",()=>{
-        $("＃slide").slideToggle();
-    })
     
-    $("#slide").slick({
-        autoplay: true,
-        autoplaySpeed: 2000,
-        dots:true,
-        slidetoshow: 2,
-      });
+   $('.autoplay').slick({
+     slidesToShow: 3,
+     slidesToScroll: 1,
+     autoplay: true,
+     autoplaySpeed: 2000,
+  });
                       
 });
 
