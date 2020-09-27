@@ -1,5 +1,5 @@
 
-＄(function(){
+$(function(){
     
     $("#slide").slick({dots:true});
 
@@ -7,10 +7,9 @@
   //   $("#slide").slideToggle();
   // })
 
-});
 
     $(".btn").on("click",()=>{
-        $(#"slide").slideToggle();
+        $("＃slide").slideToggle();
     })
     
     $("#slide").slick({
